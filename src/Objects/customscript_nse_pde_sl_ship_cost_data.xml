@@ -1,0 +1,25 @@
+<suitelet scriptid="customscript_nse_pde_sl_ship_cost_data">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>NSE PDE SL Shipping Cost Data</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/pde/nse_pde_sl_shipping_cost_data.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_nse_pde_sl_ship_cost_data">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <eventtype></eventtype>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>ERROR</loglevel>
+      <runasrole></runasrole>
+      <status>RELEASED</status>
+      <title>NSE PDE SL Shipping Cost Data</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>
